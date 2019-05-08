@@ -9,3 +9,6 @@ open url http://192.168.2.100:8082
 
 # Dependencies
 see https://repository.sonatype.org/#welcome
+
+# Run
+java -jar ~/.m2/repository/com/h2database/h2/1.4.199/h2-1.4.199.jar
