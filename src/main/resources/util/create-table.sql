@@ -4,3 +4,4 @@ create TABLE IF NOT EXISTS RAW_REPORT (
     CLICKS varchar(24),
     EARNING varchar(24)
 );
+

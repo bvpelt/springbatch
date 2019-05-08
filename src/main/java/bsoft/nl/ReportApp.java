@@ -1,4 +1,4 @@
-package com.mkyong;
+package bsoft.nl;
 
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.JobExecution;
@@ -7,12 +7,12 @@ import org.springframework.batch.core.launch.JobLauncher;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-public class App {
+public class ReportApp {
 
     public static void main(String[] args) {
 
-        App app = new App();
-        app.doIt();
+        ReportApp reportApp = new ReportApp();
+        reportApp.doIt();
 
     }
 

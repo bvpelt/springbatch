@@ -1,4 +1,4 @@
-package com.mkyong.model;
+package bsoft.nl.model;
 
 public class Report {
 
