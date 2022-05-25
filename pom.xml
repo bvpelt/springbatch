@@ -10,7 +10,7 @@
 
     <properties>
         <jdk.version>1.10</jdk.version>
-        <spring.version>5.1.5.RELEASE</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
         <spring.batch.version>4.1.2.RELEASE</spring.batch.version>
         <h2.version>1.4.199</h2.version>
     </properties>
